@@ -1,0 +1,25 @@
+{
+  "name": "n-blog",
+  "version": "1.0.0",
+  "description": "node.js blog application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanbot1999/N-Blog.git"
+  },
+  "keywords": [],
+  "author": "Yifan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanbot1999/N-Blog/issues"
+  },
+  "homepage": "https://github.com/vanbot1999/N-Blog#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0"
+  },
+  "devDependencies": {}
+}
